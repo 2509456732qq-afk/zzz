@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">阿瓦隆分析</string>
+    <string name="title_activity_main">阿瓦隆分析</string>
+    <string name="package_name">com.avalon.analyzer</string>
+    <string name="custom_url_scheme">com.avalon.analyzer</string>
+</resources>
