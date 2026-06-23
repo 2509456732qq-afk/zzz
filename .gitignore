@@ -26,7 +26,6 @@ dist-ssr
 # Android
 android/app/build/
 android/.gradle/
-android/gradle/
 android/local.properties
 
 # Capacitor
